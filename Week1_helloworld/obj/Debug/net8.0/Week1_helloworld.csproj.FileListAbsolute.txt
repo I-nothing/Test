@@ -1,0 +1,14 @@
+D:\Csharp_homework\homework\Week1_helloworld\bin\Debug\net8.0\Week1_helloworld.exe
+D:\Csharp_homework\homework\Week1_helloworld\bin\Debug\net8.0\Week1_helloworld.deps.json
+D:\Csharp_homework\homework\Week1_helloworld\bin\Debug\net8.0\Week1_helloworld.runtimeconfig.json
+D:\Csharp_homework\homework\Week1_helloworld\bin\Debug\net8.0\Week1_helloworld.dll
+D:\Csharp_homework\homework\Week1_helloworld\bin\Debug\net8.0\Week1_helloworld.pdb
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.AssemblyInfoInputs.cache
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.AssemblyInfo.cs
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.csproj.CoreCompileInputs.cache
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.dll
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\refint\Week1_helloworld.dll
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.pdb
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\Week1_helloworld.genruntimeconfig.cache
+D:\Csharp_homework\homework\Week1_helloworld\obj\Debug\net8.0\ref\Week1_helloworld.dll
